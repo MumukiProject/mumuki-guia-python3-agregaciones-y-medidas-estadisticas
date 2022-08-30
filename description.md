@@ -1,0 +1,1 @@
+En la primera lección estuvimos obteniendo valores puntuales de nuestros datasets. Sin embargo, muchas veces vamos a querer conocer información más general de nuestros lotes. Es por ello que en esta lección vamos a conocer distintas herramientas para obtener medidas estadísticas, algunas nuevas ¡y otras que ya conoces! 
