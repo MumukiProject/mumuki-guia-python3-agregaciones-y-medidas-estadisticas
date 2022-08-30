@@ -1,0 +1,1 @@
+Pero… ¿ésto solo se puede hacer con `Series`? 
