@@ -1,0 +1,30 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["altura"].quantile(0.95)` es lo mismo que  `arboles["altura"].max()`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["altura"].quantile(1)` es lo mismo que  `arboles["altura"].min()`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["altura"].quantile(0)` es lo mismo que  `arboles["altura"].min()`'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["altura"].quantile(0.75)` es lo mismo que  `arboles["altura"].median()`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["altura"].quantile(1)` es lo mismo que  `arboles["altura"].max()`'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["altura"].quantile(0.5)` es lo mismo que  `arboles["altura"].median()`'
+  checked: true
+name: A vos ya te conozco
