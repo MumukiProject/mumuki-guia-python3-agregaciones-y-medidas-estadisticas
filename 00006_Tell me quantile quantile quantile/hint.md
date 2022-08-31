@@ -1,0 +1,1 @@
+A la hora de usar `quantile` es importante saber sobre qué columna queremos saber información y de qué porcentaje del muestreo nos interesa hacerlo. 
