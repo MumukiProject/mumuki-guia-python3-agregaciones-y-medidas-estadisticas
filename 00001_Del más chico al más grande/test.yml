@@ -1,0 +1,4 @@
+- name: 'altura'
+  keys:
+    len:
+      equal: 329
