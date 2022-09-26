@@ -5,9 +5,10 @@ El cuantil me dice cuál es el elemento más grande de un subconjunto de element
 Si hicieramos...
 
 ```python
-arboles["diametro"].quantile(0.95)
-XXX
+ム arboles["diametro"].quantile(0.95)
+71.0
 ```
+
 
 ... obtendríamos el diámetro más grande dentro del 95% más chico. Dicho de otra forma, si quitamos el 5% de árboles "más anchos" el mayor diámetro que nos queda es XXX. 
 
