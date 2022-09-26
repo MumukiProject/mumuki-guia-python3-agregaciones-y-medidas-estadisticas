@@ -4,4 +4,4 @@ Quizás te estés preguntando qué sucede si la cantidad de elementos del lote e
 2. si ordenáramos esos valores nos quedaría `7 8 9 21 25 42 48 87`;
 3. teniendo en cuenta que tenemos 8 valores los del medio son el cuarto y el quinto, es decir, el 21 y el 25;
 4. se suman esos dos valores, obteniendo en este caso 46;
-5. se divide esa suma por dos y obtenemos la mediana. 23 para este ejemplo. 
+5. se divide esa suma por dos y obtenemos la mediana: 23 para este ejemplo. 
