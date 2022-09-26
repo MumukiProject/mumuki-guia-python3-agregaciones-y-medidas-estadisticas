@@ -1,6 +1,15 @@
-Al hacer `describe` de nuestro dataset obtuvimos una tabla como esta:
+Al hacer `describe` de nuestro `DataFrame` obtuvimos una tabla como esta:
 
-TABLA DE DESCRIBE.
+||(..)|height|diameter|inclination|(..)|
+|---|---|---|---|---|---|
+|count|(..)|372699.000000|372699.000000|372699.000000|(..)|
+|mean|(..)|8.473044|31.941234|3.069783|(..)|
+|std|(..)|4.576818|20.207216|6.029910|(..)|
+|min|(..)|0.000000|0.000000|0.000000|(..)|
+|25%|(..)|5.000000|17.000000|0.000000|(..)|
+|50%|(..)|8.000000|28.000000|0.000000|(..)|
+|75%|(..)|11.000000|43.000000|5.000000|(..)|
+|max|(..)|60.000000|426.000000|60.000000|(..)|
 
 Expliquemos un poco de qué se trata cada una de estas filas:
 
@@ -13,8 +22,8 @@ Expliquemos un poco de qué se trata cada una de estas filas:
 * `75%` es el valor de Q3;
 * `max` es el mayor valor que podemos encontrar en la columna.
 
-También habrás notado que `describe` nos muestra solo información sobre las columna numéricas de nuestro lote de datos. Sin embargo, es importante notar que aunque la columna sea numérica no siempre tiene sentido obtener medidas estadísticas. Probablemente no nos interese el promedio de los códigos postales o la mediana de los ids. 
+También habrás notado que `describe` nos muestra sólo información sobre las columnas numéricas de nuestro lote de datos. Sin embargo, es importante notar que aunque la columna sea numérica no siempre tiene sentido obtener medidas estadísticas. Probablemente no nos interese el promedio de los códigos postales o la mediana de los ids. 
 
-Ahora que comprendimos `describe` vamos a conocer `info`, otra herramienta que nos permite obtener otro tipo de información sobre nuestros datos.
+Otra herramienta que nos permite obtener otro tipo de información sobre nuestros datos es `info`. A diferencia de `describe`, con `info` podemos conocer sobre la estructura de nuestro `DataFrame` como por ejemplo la cantidad de columnas, de qué tipo de datos son, cuántos valores tenemos en cada una.
 
-> Probá en la consola `arboles.info()`.
+> Probá en tu cuaderno `arboles.info()`.
