@@ -1,0 +1,4 @@
+- name: 'Promedio de alturas'
+  keys:
+    altura:
+      equal: 60
