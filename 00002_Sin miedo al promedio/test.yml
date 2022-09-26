@@ -1,4 +1,4 @@
-- name: 'Promedio de alturas'
+- name: 'Diámetro promedio'
   keys:
     altura:
       equal: 60
