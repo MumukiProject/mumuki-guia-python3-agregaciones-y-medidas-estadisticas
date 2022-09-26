@@ -1,4 +1,4 @@
-Dentro de los cuantiles hay grupos muy populares que se destacan en los cuales tomamos distribuciones de valores en intervalos iguales:
+Dentro de los cuantiles hay grupos muy populares en los que tomamos distribuciones de valores en intervalos iguales:
 
 * los _cuartiles_ que dividen la distribución en cuatro partes (0.25, 0.5, 0.75);
 * los _quintiles_ que dividen la distribución en cinco partes (0.2, 0.4, 0.6, 0.8);
@@ -7,4 +7,4 @@ Dentro de los cuantiles hay grupos muy populares que se destacan en los cuales t
 
 En este recorrido nos interesa hacer especial hincapié en los **cuartiles**. Lo bueno es que la forma de utilizarlos no difiere de lo que ya conocimos, ¡seguimos utilizando `quantile`!
 
-> Obtené el tercer cuartil del diámetro de los árboles.
+> Obtené el tercer **cuartil** del diámetro de los árboles.
