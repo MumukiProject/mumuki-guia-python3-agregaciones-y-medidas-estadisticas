@@ -1,0 +1,12 @@
+- name: 'Mayor gasto en tours'
+  keys:
+    tours:
+      equal: 31.94
+- name: 'Mayor gasto en alimentación'
+  keys:
+    food:
+      equal: 31.94
+- name: 'Gasto total'
+  keys:
+    total:
+      equal: 31.94
