@@ -1,3 +1,5 @@
+import pandas as pd
+
 class Test(unittest.TestCase):
 
   def test_promedio_de_los_primeros_10_10_5_9_100_250_con_n_2(self):
