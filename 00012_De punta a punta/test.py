@@ -1,3 +1,5 @@
+import pandas as pd
+
 class Test(unittest.TestCase):
 
   def test_diferencia_de_extremos_10_5_100(self):
