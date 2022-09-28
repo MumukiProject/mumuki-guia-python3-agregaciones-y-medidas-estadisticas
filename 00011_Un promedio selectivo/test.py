@@ -12,4 +12,4 @@ class Test(unittest.TestCase):
     self.assertEquals(promedio_de_los_primeros(pd.Series([10, 10, 5, 9, 100, 250]), 1), 10)
 
   def test_promedio_de_los_primeros_1000_42_16_89_75_45_con_n_4(self):
-    self.assertEquals(promedio_de_los_primeros(pd.Series([10, 10, 5, 9, 100, 250]), 4), 286.75)
+    self.assertEquals(promedio_de_los_primeros(pd.Series([1000, 42, 16, 89, 75, 45]), 4), 286.75)
