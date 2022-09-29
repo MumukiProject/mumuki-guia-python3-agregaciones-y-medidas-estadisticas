@@ -27,4 +27,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: '`arboles["altura"].quantile(0.5)` es lo mismo que  `arboles["altura"].median()`'
   checked: true
-name: A vos ya te conozco
+name: Todo en caja
