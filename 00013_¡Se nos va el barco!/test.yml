@@ -12,5 +12,5 @@
       equal: 145.97
 - name: 'Crucero con mayor gasto total'
   keys:
-    total:
+    idxmax:
       equal: 796
