@@ -19,3 +19,5 @@
     country:
       equal: Brasil
       ignore_case: true
+      ignore_whitespace: true
+      
