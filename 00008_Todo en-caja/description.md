@@ -1,6 +1,6 @@
 Como quizás te estés imaginando, 0 y 1 son los valores más chicos y grandes que podemos pasarles a `quantile`, los cuales son también conocidos como <code>Q<sub>0</sub></code> y <code>Q<sub>4</sub></code> y se corresponden con el valor mínimo y máximo de una serie. 
 
-Toda esta información de los 5 cuartiles puede ser condensada en un gráfico, llamado gráfico de caja...
+Toda esta información de los 5 cuartiles puede ser condensada en un gráfico, llamado gráfico de caja :package:...
 
 <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-python3-agregaciones-y-medidas-estadisticas/master/assets/boxplot_1665011408149.png" alt="boxplot_1665011408149.png" width="auto" height="auto">
 
