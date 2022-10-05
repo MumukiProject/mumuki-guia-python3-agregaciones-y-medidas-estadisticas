@@ -1,7 +1,7 @@
 Cómo podemos notar, `mode` no devuelve un valor _escalar_ (es decir, un valor único y sencillo como un número o un booleano) sino un `Series` 🙊. `
 
 ```python
-type(unos_numeros)
+ム type(unos_numeros)
 pandas.core.series.Series
 ```
 
