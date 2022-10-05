@@ -1,1 +1,0 @@
-¡Bravo! Acabás de aprender sobre agregaciones y medidas estadísticas, como máximos, mínimos, promedios, medianas y modas. Además, conocimos los cuantiles y cuartiles y distintas formas de describir un conjunto de datos :pencil:. 
