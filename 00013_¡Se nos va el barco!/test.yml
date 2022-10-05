@@ -17,7 +17,8 @@
 - name: 'País de procedencia más común'
   keys:
     country:
-      equal: Brasil
-      ignore_case: true
-      ignore_whitespace: true
+      equal: 
+        expected: Brasil
+        ignore_case: true
+        ignore_whitespace: true
       
