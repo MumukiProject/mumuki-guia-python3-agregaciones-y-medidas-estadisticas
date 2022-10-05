@@ -14,3 +14,8 @@
   keys:
     idxmax:
       equal: 796
+- name: 'País de procedencia más común'
+  keys:
+    country:
+      equal: Brasil
+      ignore_case: true
