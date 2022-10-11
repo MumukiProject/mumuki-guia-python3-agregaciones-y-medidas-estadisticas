@@ -10,6 +10,6 @@ Si hicieramos...
 ```
 
 
-... obtendríamos el diámetro más grande dentro del 95% más chico. Dicho de otra forma, si quitamos el 5% de árboles "más anchos" el mayor diámetro que nos queda es XXX. 
+... obtendríamos el diámetro más grande dentro del 95% más chico. Dicho de otra forma, si quitamos el 5% de árboles "más anchos" el mayor diámetro que nos queda es 71.0. 
 
 > ¡Probalo! Obtené la altura del árbol más alto dentro del 80% más bajo.
