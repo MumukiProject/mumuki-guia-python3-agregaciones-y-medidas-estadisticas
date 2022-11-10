@@ -1,1 +1,1 @@
-Pero... ¿son tan nuevas estas operaciones como `max` y `sum`? ¿Sólo se puede hacer con `Series`? ¿No se podían aplicar también a otros tipos de datos? 🤔
+¡Muy bien! Pero ¿no habíamos ya visto operaciones como `max` y `sum` cuando aprendimos sobre listas? ¿Tendrán algún vínculo con las operaciones sobre `Series` que acabamos de conocer? :thinking:
